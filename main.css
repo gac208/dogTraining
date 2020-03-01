@@ -1,2 +1,8 @@
-background-color: #eee;
-color: red;
+body { 
+  background-color: #eee; 
+  color: red;
+}
+
+a {
+color: green;
+}
